@@ -10,14 +10,16 @@ export const products = [
   {
     id: 2,
     name: "Banana",
-    description: "R1,00",
+    description: "R30,00",
     imageUrl: "https://source.unsplash.com/random/300x200",
+    buttonUrl: "https://buy.stripe.com/test_bIYeYw93S4w306caEI",
   },
   {
     id: 3,
     name: "Peach",
-    description: "R1,00",
+    description: "R35,00",
     imageUrl: "https://source.unsplash.com/random/300x200",
+    buttonUrl: "https://buy.stripe.com/test_28odUs5RGgeL1agcMR",
   },
   // More products...
 ];
