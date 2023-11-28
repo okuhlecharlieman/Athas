@@ -5,7 +5,7 @@ function Product() {
   return (
     <div>
       {" "}
-      <div className="container">
+      <div className="container my-5">
         <div className="row">
           {products.map((product) => (
             <div className="col-md-4" key={product.id}>
@@ -19,8 +19,11 @@ function Product() {
                 <div className="card-body">
                   <h5 className="card-title">{product.name}</h5>
                   <p className="card-text">{product.description}</p>
-                  <a href="#" className="btn btn-primary">
-                    Add to Cart
+                  <a
+                    href="https://buy.stripe.com/test_7sI9Ecbc0faH3io8wz"
+                    className="btn btn-primary"
+                  >
+                    Place oder
                   </a>
                 </div>
               </div>

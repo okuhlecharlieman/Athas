@@ -5,7 +5,7 @@ function Navbar() {
     <div>
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="/">
             Athas
           </a>
           <button
@@ -21,13 +21,13 @@ function Navbar() {
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="#">
+              <a class="nav-link active" aria-current="page" href="/">
                 Home
               </a>
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="/">
                 Features
               </a>
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="/">
                 Pricing
               </a>
               <a class="nav-link disabled" aria-disabled="true">

@@ -2,20 +2,20 @@
 export const products = [
   {
     id: 1,
-    name: "Product 1",
-    description: "This is product 1",
+    name: "Ice creame",
+    description: "R25,00",
     imageUrl: "https://source.unsplash.com/random/300x200",
   },
   {
     id: 2,
-    name: "Product 2",
-    description: "This is product 2",
+    name: "Banana",
+    description: "R1,00",
     imageUrl: "https://source.unsplash.com/random/300x200",
   },
   {
     id: 3,
-    name: "Product 3",
-    description: "This is product 3",
+    name: "Peach",
+    description: "R1,00",
     imageUrl: "https://source.unsplash.com/random/300x200",
   },
   // More products...
