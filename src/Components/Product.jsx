@@ -19,10 +19,7 @@ function Product() {
                 <div className="card-body">
                   <h5 className="card-title">{product.name}</h5>
                   <p className="card-text">{product.description}</p>
-                  <a
-                    href="https://buy.stripe.com/test_7sI9Ecbc0faH3io8wz"
-                    className="btn btn-primary"
-                  >
+                  <a href={product.buttonUrl} className="btn btn-primary">
                     Place oder
                   </a>
                 </div>
