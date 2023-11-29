@@ -4,11 +4,11 @@ import "./Product.css";
 
 function Product() {
   return (
-    <div className="container my-5 product-grid">
+    <div className="container product-grid">
       <div className="row ">
         {products.map((product) => (
           <div className="col-md-3" key={product.id}>
-            <div className="card product-card">
+            <div className="card product-card my-3">
               <img
                 className="card-img-top"
                 src={product.imageUrl}
