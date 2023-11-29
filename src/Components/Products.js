@@ -16,16 +16,16 @@ export const products = [
   },
   {
     id: 3,
-    name: '30" Water Wave Full Frontal',
-    description: "R2 900,00",
-    imageUrl: "https://i.ibb.co/LznG1wQ/30-Water-Wave-Full-Frontal.jpg",
+    name: '10" Ginger',
+    description: "R1 000,00",
+    imageUrl: "https://i.ibb.co/pwWmxf1/10-Ginger.jpg",
     buttonUrl: "https://buy.stripe.com/test_28odUs5RGgeL1agcMR",
   },
   {
     id: 4,
-    name: '30" Water Wave Full Frontal',
-    description: "R2 900,00",
-    imageUrl: "https://i.ibb.co/LznG1wQ/30-Water-Wave-Full-Frontal.jpg",
+    name: '10" Piano',
+    description: "R1 000,00",
+    imageUrl: "https://i.ibb.co/Krb55Y7/10-Piano.jpg",
     buttonUrl: "https://buy.stripe.com/test_28odUs5RGgeL1agcMR",
   },
   {
