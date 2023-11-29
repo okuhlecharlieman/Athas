@@ -14,6 +14,8 @@ function Product() {
                   className="card-img-top"
                   src={product.imageUrl}
                   alt={product.name}
+                  width={300}
+                  height={200}
                 />
 
                 <div className="card-body">
