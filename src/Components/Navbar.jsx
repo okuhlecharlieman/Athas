@@ -11,6 +11,7 @@ function Nah() {
           <img
             className="img-round"
             src="https://i.ibb.co/T4BY3DD/logo.jpg"
+            alt="Logo"
             width={60}
             height={60}
           />
